@@ -10,9 +10,15 @@ This project is a fully functional chat application built entirely in Kotlin, le
 - **Scalability**: Designed to handle a large number of users and messages efficiently.
 
 ## Screenshots
+![WhatsApp Image 2024-05-17 at 20 10 45](https://github.com/bhrigutayal/Chat_Application/assets/118829367/bf1bbc3f-0481-4b41-9d96-0161ce736ad7)
 
-![Login Screen](screenshots/login.png)
-![Chat Screen](screenshots/chat.png)
+![WhatsApp Image 2024-05-17 at 20 10 44 (1)](https://github.com/bhrigutayal/Chat_Application/assets/118829367/e4f0c327-1fab-400d-b0e4-0fa5f2abd46f)
+
+![WhatsApp Image 2024-05-17 at 20 10 44](https://github.com/bhrigutayal/Chat_Application/assets/118829367/c2c3f48f-263d-423d-a30c-dbdf86097fe2)
+
+![WhatsApp Image 2024-05-17 at 20 10 43](https://github.com/bhrigutayal/Chat_Application/assets/118829367/5ae25dd7-d7a7-4937-8805-2d7a953f196f)
+
+
 
 ## Getting Started
 
